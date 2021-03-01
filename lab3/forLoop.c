@@ -10,6 +10,6 @@ int main(void) {
         printf(“%d”, i);
     }
 
-	system(“PAUSE”);
-	return 0;
+    system(“PAUSE”);
+    return 0;
 }

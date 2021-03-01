@@ -1,6 +1,6 @@
 /*
  * Fixed infinite loop code example (fixes the infinite loop from "infiniteLoop.c"),
- * from Slide 4 of this week's lesson.
+ * from Slide 5 of this week's lesson.
  */
 
 #include <stdio.h>
@@ -17,6 +17,6 @@ int main(void) {
         i--;
     }
 
-	system(“PAUSE”);
-	return 0;
+    system(“PAUSE”);
+    return 0;
 }

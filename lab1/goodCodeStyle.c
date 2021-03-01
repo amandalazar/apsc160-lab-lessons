@@ -17,7 +17,7 @@ int main(void) {
 	scanf(“%d”, &distanceInMeters);
 
 	numTrackLengths = distanceInMeters / LENGTH_RUNNING_TRACK;
-	
+
 	printf(“You ran %d length(s) of a running track.”, numTrackLengths);
 
 	system(“PAUSE”);
